@@ -1,5 +1,7 @@
 # AI Stock Analyzer
 
+<img width="2525" height="1332" alt="Image" src="https://github.com/user-attachments/assets/eb22d805-a753-4f3e-b6ab-4034568328f0" />
+
 A modern web application for AI-powered stock analysis and investment recommendations. Built with Next.js, TypeScript, and OpenAI.
 
 ## Features
